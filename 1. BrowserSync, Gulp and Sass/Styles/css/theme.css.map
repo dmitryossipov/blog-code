@@ -1,1 +1,0 @@
-{"version":3,"file":"theme.css","sources":["theme.scss","variables.scss"],"sourcesContent":["@import 'variables';\r\n\r\n.main-header{\r\n    color: $header-color;\r\n}","$header-color: red;"],"names":[],"mappings":"AAEA,AAAA,YAAY,CAAA;EACR,KAAK,ECHM,GAAG,GDIjB"}
